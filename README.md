@@ -28,7 +28,7 @@ Motivated aspiring undergraduate student actively seeking a 24-week internship o
 - **Languages:** C, Java, Python, JavaScript
 
 ### Software
-- **Tools:** Microsoft Office, Visual Studio Code, MongoDB, Node.js, Express.js, Android Studio, Figma, Notion, Git, Canva, Jupyter Lab, MySQL, Adobe Photoshop, LucidChart
+- **Tools:** Microsoft Office, Visual Studio Code, MongoDB, Android Studio, Figma, Notion, Git, Canva, Jupyter Lab, Adobe Photoshop, LucidChart
 
 ### Language Proficiency
 - **Malay:** Native
