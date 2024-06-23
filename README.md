@@ -17,21 +17,14 @@ Here are some ideas to get you started:
 
 # Welcome to My Github Account
 
----
-
 ## [Link to My Social Media](#) <!-- Replace '#' with the actual URL -->
 
----
-
 ## About Me
-
----
 
 Motivated aspiring undergraduate student actively seeking a 24-week internship opportunity to further develop skills and gain hands-on experience in the field. I can start as early as 22 July 2024. Eager to learn and contribute to innovative projects while expanding knowledge in software engineering.
 
 ## Skills & Projects
 
----
 
 ### Programming
 - **Languages:** C, Java, Python, JavaScript
