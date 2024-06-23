@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **nijam001/nijam001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 # Welcome to My Github Account
 
-## [Link to My Social Media](#) <!-- Replace '#' with the actual URL -->
+## [Resume](https://github.com/nijam001/workspace/blob/main/resume_ALNIJAM.pdf)  [LinkedIn](https://www.linkedin.com/in/alnijambinmohdasari/) <!-- Replace '#' with the actual URL -->
 
 ## About Me
 
