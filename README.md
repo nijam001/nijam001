@@ -81,6 +81,6 @@ Here are a few projects I've worked on. Feel free to explore them!
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nijam001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="nijam001's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nijam001&show_icons=true&theme=dracula" alt="nijam001's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijam001&layout=compact&langs_count=8&theme=dracula" alt="nijam001's top languages" />
 </p>
