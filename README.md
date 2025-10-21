@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
-    Hi there, I'm Al Nijam 👋
+    Hi there, I'm Alnijam 👋
   </h1>
   <p>
     A Software Engineering student with a passion for building innovative solutions and exploring the intersections of web, mobile, and machine learning. 
