@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/alnijambinmohdasari/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/nijam001/workspace/blob/main/resume_ALNIJAM.pdf" target="_blank">
+  <a href="https://github.com/nijam001/workspace/blob/a1b870a31f4f4fa0cea66fc3af33d0c1122f212d/Resume%20ALNIJAM.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-DA0F0F?style=for-the-badge&logo=acrobat&logoColor=white" alt="Resume"/>
   </a>
 
